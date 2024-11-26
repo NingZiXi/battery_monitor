@@ -1,0 +1,10 @@
+version: 1.0.0
+license: "MIT"
+description: battery_monitor
+url: https://github.com/NingZiXi/battery_monitor
+files:
+  exclude:
+  - .git
+dependencies:
+  idf:
+    version: ">=4.4.7"

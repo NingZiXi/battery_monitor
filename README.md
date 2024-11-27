@@ -88,7 +88,6 @@ void app_main()
 ## 依赖项
 
 - ESP-IDF >= 5.3.1
-- led_strip 灯条驱动库
 
 ## 许可证
 

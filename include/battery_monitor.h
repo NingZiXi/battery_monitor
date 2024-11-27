@@ -20,8 +20,8 @@
 #define ADC_UNIT        ADC_UNIT_1          // 单通道 ADC
 
 // 电池配置
-#define R1              300500.0f    // 分压电阻 1
-#define R2              100400.0f    // 分压电阻 2
+#define R1              300000.0f    // 分压电阻 1
+#define R2              100000.0f    // 分压电阻 2
 #define BATTERY_MIN     3.7f         // 电池最低电压 (V)
 #define BATTERY_MAX     4.2f         // 电池最高电压 (V)
 #define ADC_OFFSET      0.02f        // ADC 偏移电压 (V)
